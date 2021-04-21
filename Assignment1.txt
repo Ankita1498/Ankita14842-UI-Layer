@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=h1, initial-scale=1.0">
+    <title>MYWEBPAGE</title>
+    <link rel="stylesheet" type="text/css" href="D:\training\UI layer\style.css">
+</head>
+<body>
+  <hr>
+  <!--header>
+      <div id="header-container">
+          <div class="col-3">
+            <img src="https://mastekgroup.sharepoint.com/_catalogs/masterpage/Masteknet/images/masteklogo.png?ctag=210418" height="100px" width="150px" align="center"> 
+          </div> 
+          <div class="col-3">
+              <nav>
+                  <ul class="menu">
+                      <li>Home</li>
+                      <li>Global Presence</li>
+                      <li>About</li>
+                  </ul>
+              </nav>
+          </div>
+          <div class="col-3">
+              <a href="#" class="getStartedBTN">Get Started</a>
+          </div>
+      </div><Header container ends here-->
+  </header>
+  <img src="https://mastekgroup.sharepoint.com/_catalogs/masterpage/Masteknet/images/masteklogo.png?ctag=210418" height="100px" width="150px" align="center">
+  <h3 align="right">
+    <a href="#">HOME</a> &nbsp;&nbsp;
+    <a href="#">GLOBAL PRESENCE</a>  
+    
+  </h3-->
+
+<h1 align="center"><u>WE ARE MASTEKEERS!</u></h1></hr>
+<br>
+
+<div>
+    <img src="https://mastekgroup.sharepoint.com/contents/sites/Digital_Guide/assets/images/stab1.png" height="350px" width="550px" align="right">
+    <p align="left">
+<h2>SETUP MY WORKSTATION</h2>
+<font size="+2">To ease your integration into the Mastek family,<br>
+we have dedicated teams of in-house staff and IT professionals across all locations<br>
+who not only assist you in finding the right spot for your workstation but 
+<br>also help you set up the desktop and work to seamlessly resolve all technical issues.<br>
+To Setup your desktop please connect the access points below at respective locations or<br>
+raise a call using the link given below:</font>
+<ul><font size=+2>
+    <li>MAHAPE &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;+91 22 6791 4646</li>
+    <li>SEEPZ  &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+91 22 6722 4200	</li>
+    <li>PUNE  &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+91 20 2703 2015	</li>
+    <li>LEEDS,READING UK&nbsp;&nbsp; &nbsp;&nbsp;+44(0) 118 903 5700</li>
+    <li>MASTEK AMERICAS &nbsp;&nbsp; &nbsp;&nbsp;949 315 0534	</li></font>
+</ul>
+<p>
+<a href="https://mastekgroup.sharepoint.com/Pages/Support.aspx" target="_blank"><mark><b><font size=+2>KNOW MORE</font></b></mark></a>
+
+</p>
+</p>
+
+</div>
+<br>
+<br>
+<br>
+
+<div>
+    <font size=+2>
+     <h2>GLOBAL PRESENCE</h2>
+     <p>
+        <img src="https://mastekgroup.sharepoint.com/contents/sites/Digital_Guide/assets/images/abright01.png" alt="" align="left">
+    
+     Mastek is present in 3 countries around the world with offices spread <br>
+     across locations.We operate from India, UK and US.
+     </p>
+     <br>
+     <p> <img src="https://mastekgroup.sharepoint.com/contents/sites/Digital_Guide/assets/images/IND.png" height="50px" width="50px" align="left"> 
+         <h3>INDIA</h3>
+        Transforming Governance, Transforming Lives</p>
+     </p>
+     <p> <img src="https://mastekgroup.sharepoint.com/contents/sites/Digital_Guide/assets/images/US.png" height="50px" width="50px" align="left">
+         <h3>UNITED STATES OF AMERICA</h3>
+        Leading US based digital commerce provider
+    </p>
+     <p><img src="https://mastekgroup.sharepoint.com/contents/sites/Digital_Guide/assets/images/UK.png" height="50px" width="50px" align="left">
+          <h3>UNITED KINGDOM</h3>
+        Your trusted partner for digital transformation projects
+    </font>
+     </p>
+    
+</div>
+<br><br><br><br><br> <br>
+<hr>
+<h3>Contact 123456789</h3>
+<footer align="center"><font size=+2>@Copyright ALL RIGHTS RESERVERD BY MASTEK</font></footer>
+ </hr>
+   <script src="app.js"></script>
+</body>
+</html>
